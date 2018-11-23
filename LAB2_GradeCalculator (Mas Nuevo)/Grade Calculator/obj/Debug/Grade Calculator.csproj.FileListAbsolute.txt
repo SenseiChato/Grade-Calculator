@@ -1,0 +1,90 @@
+C:\C# 2017\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+C:\C# 2017\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe
+C:\C# 2017\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.pdb
+C:\C# 2017\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csprojAssemblyReference.cache
+C:\C# 2017\Grade Calculator\Grade Calculator\obj\Debug\Grade_Calculator.Form1.resources
+C:\C# 2017\Grade Calculator\Grade Calculator\obj\Debug\Grade_Calculator.Properties.Resources.resources
+C:\C# 2017\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csproj.GenerateResource.cache
+C:\C# 2017\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csproj.CoreCompileInputs.cache
+C:\C# 2017\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.exe
+C:\C# 2017\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.pdb
+E:\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+E:\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe
+E:\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.pdb
+E:\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csprojAssemblyReference.cache
+E:\Grade Calculator\Grade Calculator\obj\Debug\Grade_Calculator.Form1.resources
+E:\Grade Calculator\Grade Calculator\obj\Debug\Grade_Calculator.Properties.Resources.resources
+E:\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csproj.GenerateResource.cache
+E:\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csproj.CoreCompileInputs.cache
+E:\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.exe
+E:\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.pdb
+C:\Users\Ivan\Desktop\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+C:\Users\Ivan\Desktop\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe
+C:\Users\Ivan\Desktop\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.pdb
+C:\Users\Ivan\Desktop\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\Grade Calculator\Grade Calculator\obj\Debug\Grade_Calculator.Form1.resources
+C:\Users\Ivan\Desktop\Grade Calculator\Grade Calculator\obj\Debug\Grade_Calculator.Properties.Resources.resources
+C:\Users\Ivan\Desktop\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.exe
+C:\Users\Ivan\Desktop\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.pdb
+H:\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+H:\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe
+H:\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.pdb
+H:\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csprojAssemblyReference.cache
+H:\Grade Calculator\Grade Calculator\obj\Debug\Grade_Calculator.Form1.resources
+H:\Grade Calculator\Grade Calculator\obj\Debug\Grade_Calculator.Properties.Resources.resources
+H:\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csproj.GenerateResource.cache
+H:\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csproj.CoreCompileInputs.cache
+H:\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.exe
+H:\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.pdb
+G:\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+G:\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe
+G:\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.pdb
+G:\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csprojAssemblyReference.cache
+G:\Grade Calculator\Grade Calculator\obj\Debug\Grade_Calculator.Form1.resources
+G:\Grade Calculator\Grade Calculator\obj\Debug\Grade_Calculator.Properties.Resources.resources
+G:\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csproj.GenerateResource.cache
+G:\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csproj.CoreCompileInputs.cache
+G:\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.exe
+G:\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.pdb
+C:\Users\Ivan\Desktop\LAB2_GradeCalculator (Original)\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+C:\Users\Ivan\Desktop\LAB2_GradeCalculator (Original)\Grade Calculator\bin\Debug\Grade Calculator.exe
+C:\Users\Ivan\Desktop\LAB2_GradeCalculator (Original)\Grade Calculator\bin\Debug\Grade Calculator.pdb
+C:\Users\Ivan\Desktop\LAB2_GradeCalculator (Original)\Grade Calculator\obj\Debug\Grade Calculator.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\LAB2_GradeCalculator (Original)\Grade Calculator\obj\Debug\Grade_Calculator.Form1.resources
+C:\Users\Ivan\Desktop\LAB2_GradeCalculator (Original)\Grade Calculator\obj\Debug\Grade_Calculator.Properties.Resources.resources
+C:\Users\Ivan\Desktop\LAB2_GradeCalculator (Original)\Grade Calculator\obj\Debug\Grade Calculator.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\LAB2_GradeCalculator (Original)\Grade Calculator\obj\Debug\Grade Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\LAB2_GradeCalculator (Original)\Grade Calculator\obj\Debug\Grade Calculator.exe
+C:\Users\Ivan\Desktop\LAB2_GradeCalculator (Original)\Grade Calculator\obj\Debug\Grade Calculator.pdb
+C:\Users\Ivan\Desktop\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+C:\Users\Ivan\Desktop\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\bin\Debug\Grade Calculator.exe
+C:\Users\Ivan\Desktop\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\bin\Debug\Grade Calculator.pdb
+C:\Users\Ivan\Desktop\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\obj\Debug\Grade Calculator.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\obj\Debug\Grade_Calculator.Form1.resources
+C:\Users\Ivan\Desktop\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\obj\Debug\Grade_Calculator.Properties.Resources.resources
+C:\Users\Ivan\Desktop\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\obj\Debug\Grade Calculator.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\obj\Debug\Grade Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\obj\Debug\Grade Calculator.exe
+C:\Users\Ivan\Desktop\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\obj\Debug\Grade Calculator.pdb
+G:\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+G:\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\bin\Debug\Grade Calculator.exe
+G:\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\bin\Debug\Grade Calculator.pdb
+G:\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\obj\Debug\Grade Calculator.csprojAssemblyReference.cache
+G:\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\obj\Debug\Grade_Calculator.Form1.resources
+G:\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\obj\Debug\Grade_Calculator.Properties.Resources.resources
+G:\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\obj\Debug\Grade Calculator.csproj.GenerateResource.cache
+G:\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\obj\Debug\Grade Calculator.csproj.CoreCompileInputs.cache
+G:\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\obj\Debug\Grade Calculator.exe
+G:\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\obj\Debug\Grade Calculator.pdb
+E:\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+E:\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\bin\Debug\Grade Calculator.exe
+E:\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\bin\Debug\Grade Calculator.pdb
+E:\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\obj\Debug\Grade Calculator.csprojAssemblyReference.cache
+E:\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\obj\Debug\Grade_Calculator.Form1.resources
+E:\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\obj\Debug\Grade_Calculator.Properties.Resources.resources
+E:\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\obj\Debug\Grade Calculator.csproj.GenerateResource.cache
+E:\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\obj\Debug\Grade Calculator.csproj.CoreCompileInputs.cache
+E:\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\obj\Debug\Grade Calculator.exe
+E:\LAB2_GradeCalculator (Mas Nuevo)\Grade Calculator\obj\Debug\Grade Calculator.pdb
