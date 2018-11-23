@@ -72,8 +72,31 @@ namespace Grade_Calculator
         //    {
         //        qMarks += quizCounter[1] * quizNumber[i]
         //    }
-        //}
-
+        //}        
+        
+        /*
+        // TWO PARAMS: an array of numbers of type double (same as qMarks)
+        // and an int value indicating the number of elements in the qMarks array
+        
+        public double find_lowest(double[] arr, int elements) 
+        {
+          // set lowest to a potentially high value in the array
+          double lowest = 100.00;
+          
+          for(int i = 0; i < elements; i++) 
+          { 
+            // check if current element is lower than lowest
+            if(arr[i] < lowest) 
+            {              
+              lowest = arr[i];
+            }
+          }
+          // the method returns the lowest value in the array
+          return lowest;
+        }  
+        */
+        
+        
         //The following method is used to make the math to attain the percentage of the quizzes.
         private void btnCalculate_Click(object sender, EventArgs e)
         {
