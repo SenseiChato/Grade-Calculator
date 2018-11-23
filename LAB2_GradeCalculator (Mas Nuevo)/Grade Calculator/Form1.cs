@@ -106,13 +106,12 @@ namespace Grade_Calculator
 
                     quizSum = 0;
 
-                    for (int i = 0; i <= 9; i++)
+                    for (int i = 0; i < MAX; i++)
                     {
                         quizSum = quizSum + qMarks[i];
                     }
 
                     quizSum = quizSum * 3.3333 / 100 / 10;
-
 
                     //midtermPct = (double)midtermGrade * 30 / 100;
                     //finalExamPct = (double)finalExamGrade * 40 / 100;
@@ -127,14 +126,6 @@ namespace Grade_Calculator
                            ex.GetType().ToString() + "\n" +
                            ex.StackTrace, "Exception");
             }
-
-          
-            //double[] elements = { MAX };
-            //this.FindLowest(elements);
-
-            //double[] lowest = this.FindLowest(MAX);
-            
-
         }
 
         public bool IsValidData()
