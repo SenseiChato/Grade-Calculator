@@ -88,7 +88,7 @@ namespace Grade_Calculator
         // TWO PARAMS: an array of numbers of type double (same as qMarks)
         // and an int value indicating the number of elements in the qMarks array
 
-        public double FindLowest(double[] arr, int elements)
+        public double FindLowest(double[] qMarks, int elements)
         {
             // set lowest to a potentially high value in the array
             double lowest = 100.00;
@@ -96,9 +96,9 @@ namespace Grade_Calculator
             for (int i = 0; i < elements; i++)
             {
                 // check if current element is lower than lowest
-                if (arr[i] < lowest)
+                if (qMarks[i] < lowest)
                 {
-                    lowest = arr[i];
+                    lowest = qMarks[i];
                 }
             }
             // the method returns the lowest value in the array
@@ -133,7 +133,6 @@ namespace Grade_Calculator
 
                     quizSum = quizSum * 3.3333 / 100 / 10;
 
-
                     //midtermPct = (double)midtermGrade * 30 / 100;
                     //finalExamPct = (double)finalExamGrade * 40 / 100;
 
@@ -142,18 +141,12 @@ namespace Grade_Calculator
             }
             catch (Exception ex)
             {
-
                 MessageBox.Show(ex.Message + "\n\n" +
                            ex.GetType().ToString() + "\n" +
                            ex.StackTrace, "Exception");
             }
-
-          
-            //double[] elements = { MAX };
-            //this.FindLowest(elements);
-
-            //double[] lowest = this.FindLowest(MAX);
-            
+            // Call FindLowest with PARAMS: double[] qMarks, const int MAX to find lowest grade in quiz marks array. 
+            double lowest_quiz_mark = FindLowest(qMarks, MAX);                    
 
         }
 
