@@ -65,26 +65,6 @@ namespace Grade_Calculator
             }
         }
 
-        //// TWO PARAMS: an array of numbers of type double (same as qMarks)
-        //// and an int value indicating the number of elements in the qMarks array
-
-        //public double FindLowest(double[] arr, int elements)
-        //{
-        //    // set lowest to a potentially high value in the array
-        //    double lowest = 100.00;
-
-        //    for (int i = 0; i < elements; i++)
-        //    {
-        //        // check if current element is lower than lowest
-        //        if (arr[i] < lowest)
-        //        {
-        //            lowest = arr[i];
-        //        }
-        //    }
-        //    // the method returns the lowest value in the array
-        //    return lowest;
-        //}
-
         // TWO PARAMS: an array of numbers of type double (same as qMarks)
         // and an int value indicating the number of elements in the qMarks array
 
