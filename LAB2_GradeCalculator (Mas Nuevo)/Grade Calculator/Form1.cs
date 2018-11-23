@@ -97,6 +97,7 @@ namespace Grade_Calculator
                     //double finalExamPct;
                     double midtermGrade;
                     double finalExamGrade;
+                    double lowestQuizGrade = 0.0;
 
                     double grade1;
                     string letterGrade1;
@@ -104,14 +105,14 @@ namespace Grade_Calculator
                     midtermGrade = Convert.ToDouble(txtMidTermGrade.Text);
                     finalExamGrade = Convert.ToDouble(txtFinalExamGrade.Text);
 
+                    lowestQuizGrade = FindLowest(qMarks, MAX);
+
                     quizSum = 0;
 
                     for (int i = 0; i < MAX; i++)
                     {
                         quizSum = quizSum + qMarks[i];
-                    }
-                    
-                    quizSum -= FindLowest(qMarks, MAX);
+                    }        
 
                     quizSum = quizSum * 3.3333 / 100 / 10;
 
