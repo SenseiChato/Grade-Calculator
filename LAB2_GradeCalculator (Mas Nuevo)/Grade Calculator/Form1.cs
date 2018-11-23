@@ -110,6 +110,8 @@ namespace Grade_Calculator
                     {
                         quizSum = quizSum + qMarks[i];
                     }
+                    
+                    quizSum -= FindLowest(qMarks, MAX);
 
                     quizSum = quizSum * 3.3333 / 100 / 10;
 
