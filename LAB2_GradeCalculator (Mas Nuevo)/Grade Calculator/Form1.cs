@@ -74,7 +74,7 @@ namespace Grade_Calculator
         //    }
         //}        
         
-        /*
+        
         // TWO PARAMS: an array of numbers of type double (same as qMarks)
         // and an int value indicating the number of elements in the qMarks array
         
@@ -94,7 +94,7 @@ namespace Grade_Calculator
           // the method returns the lowest value in the array
           return lowest;
         }  
-        */
+        
         
         
         //The following method is used to make the math to attain the percentage of the quizzes.
